@@ -1,4 +1,4 @@
-# friendFinder
+# Friend Finder
 
 Find your best friend through Friendfinder App! This app will take in results from your survey, then compare the answers with those from other users. The app will then display the name and picture of the user with the best overall match. 
 
