@@ -4,11 +4,11 @@ Find your best friend through Friendfinder App! This app will take in results fr
 
 # Technology Used
 <ul>
-Node
-Express
-Materialize
-HTML
-Javascript 
+<li>Node</li>
+<li>Express</li>
+<li>Materialize</li>
+<li>HTML</li>
+<li>Javascript</li> 
 </ul>
 
 # Getting Started
